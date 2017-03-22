@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 i:wq
+=======
+i:wddIwqi:wq
+>>>>>>> b08c4bfc43d48f42e2bbe8d1b352fcd3cd8a08ae
 
 :wq
 
